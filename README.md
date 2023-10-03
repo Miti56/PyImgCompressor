@@ -17,10 +17,11 @@ This Python program allows you to convert images to JPEG format with reduced qua
 
    ```bash
    pip install Pillow
+   
 Run the program using the following command:
-bash
-Copy code
+
 python main.py
+
 This will launch the program and provide you with the following options:
 Simple Conversion: Converts images in a single directory.
 Complex Conversion: Recursively processes images in a directory and its subdirectories.
@@ -36,11 +37,8 @@ Notes
 
 The program will handle Exif orientation data to correctly orient the images.
 You can adjust the image quality by modifying the quality parameter in the code.
-License
+
+## License
 
 This program is provided under the MIT License. See the LICENSE file for more details.
 
-csharp
-Copy code
-
-You can save this content in a file named `README.md` in the root directory of your project. You can also add more details or customize it further as needed.
